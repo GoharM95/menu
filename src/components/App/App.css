@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+p {
+  text-align: center;
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+
+body {
+  margin: 20px;
+}
